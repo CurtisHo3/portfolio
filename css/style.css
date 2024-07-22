@@ -4,7 +4,7 @@
 :root{
     --primary:#32d348;
     --secondary: #070606;
-    --dark:#161616;
+    --dark:#DEE2D9;
     --pure:#FFFFFF;
     --ternary:#898989;
     --light:#F2F2F2;
@@ -58,7 +58,7 @@ header{
 }
 
 header nav .left a{
-    color: var(--pure);
+    color: var(--secondary);
     text-decoration: none;
     margin-right: 2rem;
     text-transform: uppercase;
@@ -94,7 +94,7 @@ header nav .branding{
 }
 
 .ho .right{
-    color: var(--pure);
+    color: var(--secondary);
     margin-top: -7rem;
 }
 
