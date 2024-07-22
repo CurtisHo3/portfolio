@@ -94,7 +94,7 @@
   }
   
   .E{
-    background-image: url('../images/tag.PNG');
+    background-image: url('../images/tag.png');
     background-size: 80%;
     background-position: 52% 42%;
     -webkit-animation: From_Top 1.0s ease-out forwards;
