@@ -87,7 +87,7 @@
   }
   
   .D{
-    background-image: url('../images/Capture2.PNG');
+    background-image: url('../images/tag.png');
     -webkit-animation: From_Right 1.5s ease-out forwards;
     animation: From_Right 1.5s ease-out forwards;
     animation-delay: 0.2s;
